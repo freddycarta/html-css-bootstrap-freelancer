@@ -1,4 +1,11 @@
 header {
-    height: 50px;
+    height: 100px;
     background-color: darkblue ;
+
+}
+
+.section1 {
+    height: 300px;
+    background-color: lightgreen;
+
 }
