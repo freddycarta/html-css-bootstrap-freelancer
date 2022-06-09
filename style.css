@@ -24,3 +24,20 @@ header {
     width: 100px;
     background-color: blue;
 }
+
+.section3 {
+    height: 300px;
+    background-color: #1abc9c;
+
+}
+
+.section4 {
+    height: 300px;
+    background-color: #3a546d;
+
+}
+
+footer {
+    height: 100px;
+    background-color: black;
+}
